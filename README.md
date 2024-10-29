@@ -85,23 +85,30 @@ Outliers in the data (e.g., unusually high income or loan amounts) were examined
 
 ### Key Insights
 
-- **Loan Approval and Risk**: The analysis highlights key factors, such as income-to-loan ratio and age, that significantly influence loan approval and risk levels.
-- **Demographic Insights**: Certain age groups and income levels correlate with higher or lower loan approval rates, providing a better understanding of target customer demographics.
-- **High-Risk Identification**: Effective identification of high-risk customers enables targeted risk mitigation and tailored marketing efforts.
+- **Customer Segmentation**: Key segments of customers by age, income, and family size.
 
+   
+- **Loan Approval and Risk**: Only 9.6% of applicants currently hold personal loans, with an average income of $144.75K among those approved, compared to $66.24K for non-approved applicants.
+  
+- **Demographic Insights**: The average age of approved applicants is 45.07 years, and those with higher credit card usage (average 3.91) are more likely to be approved, suggesting that age, income, and credit card usage patterns play significant roles in loan approval.
+   
+- **High-Risk Identification**: Applicants with lower credit card usage (average 1.73 among non-approved applicants) are at a higher risk of default, pointing to credit card usage as a valuable predictor for risk assessment.
+
+- **Operational Efficiency**: With an average turnaround time of 95.75 hours and a maximum of 168 hours for loan approvals, there are clear opportunities to optimize loan processing times.
+   
 ### Summary for Stakeholders
 
 **Loan Approval Strategies**  
-The analysis reveals distinct patterns in loan approval likelihood based on income and demographic segments. By focusing on customers with favorable income-to-loan ratios, the bank can strategically adjust its loan approval criteria to maximize successful repayments.
+The analysis shows that 9.6% of applicants receive personal loans, indicating a niche market segment that can be targeted more effectively. Those approved have an average income of $144.75K, compared to $66.24K for those not approved, suggesting that income is a critical factor for loan eligibility. Additionally, with an average turnaround time of 95.75 hours for loan approvals, we have insights that may help to refine and expedite the approval process.
 
 **Targeted Marketing and Customer Segmentation**  
-The insights into customer demographics enable the bank to identify and prioritize marketing efforts toward low-risk customer segments, such as those within specific income brackets or family sizes. Marketing initiatives can be tailored to address the unique needs and financial behaviors of these groups.
+We identified that 90.4% of applicants do not hold personal loans, signaling a large untapped market. By targeting applicants with an income-to-loan ratio above a certain threshold, the bank can focus on customers who are more likely to qualify for loans. For example, higher-income groups not only have greater loan approval odds but also tend to have higher credit card usage (averaging 3.91 for those approved), which may signify reliable repayment habits.
 
 **Risk Management Enhancement**  
-With the identification of high-risk customer characteristics, the bank can implement more robust risk assessment protocols. Tailoring loan products or setting stricter approval criteria for higher-risk segments helps manage potential defaults more effectively.
+The data suggests that high-income applicants with average credit card usage rates of 3.91 are less likely to default, compared to those with lower usage rates (average of 1.73). Identifying and focusing on applicants fitting this profile, especially within the 23 to 67 age range, may help mitigate risks and tailor loan products more precisely.
 
 **Improving Loan Products Based on Demographic Trends**  
-The demographic insights suggest that certain customer groups may respond positively to custom loan products or financial advice that aligns with their unique income and loan needs. Focusing on these groups can improve customer satisfaction and long-term retention.
+Demographic analysis showed that loan applicants approved for loans tend to average 45.07 years in age and $144.75K in income. Additionally, 168 hours was noted as the longest approval turnaround time, providing a benchmark to improve and expedite the approval process. With this insight, the bank can focus on crafting loan products or outreach specifically for higher-income, mid-age customers who meet these characteristics.
 
 ---
 
